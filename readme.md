@@ -26,6 +26,9 @@ in SPSS.
 * **output**: These folders often include a copy of much of the SPSS output in
   PDF form as well as some syntax files.
 
+To use the repository it is recommended that you download the [ZIP
+file](https://github.com/jeromyanglim/spss-research-methods-tutorials/archive/master.zip).
+
 Earlier versions of the corresponding lectures can basically be found in the [teaching resources
 section of my website](http://jeromyanglim.blogspot.com.au/2009/09/teaching-resources.html)
 under multivariate methods.
